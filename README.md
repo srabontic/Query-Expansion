@@ -26,9 +26,6 @@ clusters:
 – Consider the co-occurrence of stems (terms) inside documents
 • Metric Clusters
 – Consider the distance between two terms in a document
-
-Query Expansion – Srabonti Chakraborty, sxc154030
-
 • Scalar Clusters
 – Consider the neighborhoods of two terms
 We implemented metric clustering algorithm. The queries tested with each of the
